@@ -2,7 +2,7 @@
 
 ## Overview 
 
-[splshiny](https://docs.sykdomspulsen.no/splshiny) is a system to help you organize projects. Most analyses have three (or more) main sections: code, results, and data, each with different requirements (version control/sharing/encryption). You provide folder locations and 'org' helps you take care of the details.
+[splshiny](https://docs.sykdomspulsen.no/splshiny) contains helpful functions for creating Shiny websites.
 
 Read the introduction vignette [here](http://docs.sykdomspulsen.no/splshiny/articles/splshiny.html) or run `help(package="splshiny")`.
 
