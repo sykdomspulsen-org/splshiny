@@ -1,10 +1,10 @@
-# PACKAGE <a href="https://docs.sykdomspulsen.no/PACKAGE"><img src="man/figures/logo.png" align="right" width="120" /></a>
+# splshiny <a href="https://docs.sykdomspulsen.no/splshiny"><img src="man/figures/logo.png" align="right" width="120" /></a>
 
 ## Overview 
 
-[PACKAGE](https://docs.sykdomspulsen.no/PACKAGE) is a system to help you organize projects. Most analyses have three (or more) main sections: code, results, and data, each with different requirements (version control/sharing/encryption). You provide folder locations and 'org' helps you take care of the details.
+[splshiny](https://docs.sykdomspulsen.no/splshiny) is a system to help you organize projects. Most analyses have three (or more) main sections: code, results, and data, each with different requirements (version control/sharing/encryption). You provide folder locations and 'org' helps you take care of the details.
 
-Read the introduction vignette [here](http://docs.sykdomspulsen.no/PACKAGE/articles/PACKAGE.html) or run `help(package="PACKAGE")`.
+Read the introduction vignette [here](http://docs.sykdomspulsen.no/splshiny/articles/splshiny.html) or run `help(package="splshiny")`.
 
 ## splverse
 
@@ -30,6 +30,6 @@ Save the file and restart R.
 You can now install [splverse](https://docs.sykdomspulsen.no/packages) packages from the FHI registry.
 
 ```
-install.packages("PACKAGE")
+install.packages("splshiny")
 ```
 
