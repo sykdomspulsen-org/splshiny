@@ -1,4 +1,4 @@
-#' @import data.table ggplot2
+#' @import data.table ggplot2 shiny
 #' @importFrom magrittr %>%
 .onAttach <- function(libname, pkgname) {
   version <- tryCatch(
