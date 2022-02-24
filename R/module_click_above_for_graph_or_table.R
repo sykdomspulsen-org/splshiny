@@ -39,7 +39,7 @@ click_above_for_graph_or_tableServer <- function(id) {
       }
       q <- q + annotate(
         "label",
-        label=glue::glue("Trykk p{spldata::nb$aa} knappene over\nfor {spldata::nb$aa} vise grafer/figurer."),
+        label=glue::glue("Trykk p{spldata::nb$aa} knappene over\nfor {spldata::nb$aa} vise figurer/tabeller."),
         x=0,
         y=0,
         size=12,
