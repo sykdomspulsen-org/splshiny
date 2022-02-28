@@ -16,7 +16,8 @@ LazyData: true
 Imports: data.table,
     magrittr,
     ggplot2,
-    shiny
+    shiny,
+    splstyle
 Suggests: testthat,
     knitr,
     rmarkdown,
